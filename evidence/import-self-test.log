@@ -1,0 +1,3 @@
+Uninstalled 1 package in 2ms
+Installed 1 package in 2ms
+{"solver": "5.1.0", "source_cases": 8, "target_crosschecks": 192, "target_unsat": 81, "zero_job_check": 1, "rejected_subprocess_fixtures": ["malformed", "wrong_decision", "wrong_recovery"]}

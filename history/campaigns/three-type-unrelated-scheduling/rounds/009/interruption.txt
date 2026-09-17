@@ -1,0 +1,1 @@
+Manual SIGINT while replacing the oracle encoding with proved redundant bounds. Z3 returned unknown; verify.py raised RuntimeError: unknown and exited with code 1. No decision was recorded for the pending source.

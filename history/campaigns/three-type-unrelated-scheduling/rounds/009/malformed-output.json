@@ -1,0 +1,55 @@
+[
+  {
+    "source": {
+      "items": [
+        1
+      ]
+    },
+    "output": {
+      "invalid": true
+    }
+  },
+  {
+    "source": {
+      "items": [
+        true,
+        1
+      ]
+    },
+    "output": {
+      "invalid": true
+    }
+  },
+  {
+    "source": {
+      "items": [
+        0,
+        1
+      ]
+    },
+    "output": {
+      "invalid": true
+    }
+  },
+  {
+    "source": {
+      "items": [],
+      "extra": 0
+    },
+    "output": {
+      "invalid": true
+    }
+  },
+  {
+    "source": null,
+    "output": {
+      "invalid": true
+    }
+  },
+  {
+    "malformed_json": "{",
+    "output": {
+      "invalid": true
+    }
+  }
+]

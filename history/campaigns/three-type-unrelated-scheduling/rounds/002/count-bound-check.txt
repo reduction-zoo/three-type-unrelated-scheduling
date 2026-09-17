@@ -1,0 +1,1 @@
+Selector totals larger than the machine count are rejected before iterating over a binary-encoded count.
