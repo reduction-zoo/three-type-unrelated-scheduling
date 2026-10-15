@@ -1,0 +1,7 @@
+{
+  "id": "Q044",
+  "source_definition": "The source gives an even number of positive binary integer weights. A valid subset contains exactly half the weights and has half their total sum; otherwise the output is NO-SOLUTION.",
+  "target_definition": "The source asks for half the input weights with half their total sum. The target has three job types in high-multiplicity encoding, positive integer processing times on unrelated machines, and a makespan bound. An output is an integer assignment-count matrix.",
+  "required_result": "Construct deterministic polynomial-time maps F and G: F sends every legal source instance to a legal target instance, and G(x,y) is a valid source output for every valid output y of F(x). Preserve the stated threshold, domain and promises. The requested complexity conclusion is NP-hardness for the stated target problem.",
+  "equation": ""
+}
