@@ -1,0 +1,8 @@
+{"local_pairs": 210, "feasible_configurations": 321410}
+{"source": [], "independently_enumerated_target_witnesses": 1}
+{"source": [1, 2], "independently_enumerated_target_witnesses": 0}
+{"source": [1, 2, 2, 3], "independently_enumerated_target_witnesses": 2}
+{"source": [1, 1, 1, 3], "independently_enumerated_target_witnesses": 0}
+{"source": [3, 2, 1, 4], "independently_enumerated_target_witnesses": 2}
+{"decimal_digits_per_source_item": 5001, "large_witnesses": 2, "threshold_bits": 132882}
+{"raw_log_counts_reconciled": true}
